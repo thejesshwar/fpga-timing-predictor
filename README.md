@@ -43,11 +43,13 @@ As expected, the tool correctly identifies the Multiplier as the slowest compone
 ## 📸 Screenshots
 
 ### 1. The Web Interface
-`(demo_screenshot.png)`
+<img width="1920" height="1080" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/d326fd01-cdbe-48b9-8218-715271544552" />
+
 
 ### 2. LIME Explainability
 The model explains that **Logic Depth** is the dominant factor for the Multiplier's delay:
-*(You can upload your LIME plot image here)*
+<img width="1388" height="869" alt="1a0c5258d06f3ef5a55acad84b43b6f6122c8d9d5e964ff9d6540239" src="https://github.com/user-attachments/assets/e44ce51b-b5fa-4c73-88d8-cf12a955d222" />
+
 
 ---
 
