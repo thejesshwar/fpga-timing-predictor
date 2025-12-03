@@ -80,8 +80,8 @@ The model explains that **Logic Depth** is the dominant factor for the Multiplie
 
 ## 📂 Project Structure
 ```text
-├── app.py              # The Streamlit Web Application (Frontend)
-├── final.ipynb         # Research Notebook (Data Generation, Model Training, LIME)
+├── app.py              # The Streamlit Web Application
+├── final.ipynb         # Research Notebook
 ├── rtl_dataset.csv     # Physics-Informed Synthetic Training Data
 ├── c17.v               # ISCAS-85 Benchmark Circuit
 ├── multiplier.v        # Test Case: Complex Logic
