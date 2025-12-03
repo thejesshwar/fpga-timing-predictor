@@ -86,3 +86,4 @@ The model explains that **Logic Depth** is the dominant factor for the Multiplie
 ├── multiplier.v        # Test Case: Complex Logic
 ├── test_circuit.v      # Test Case: Simple Logic
 └── requirements.txt    # Project Dependencies
+└── data_generator.py   # Physics Informed Data Engine
